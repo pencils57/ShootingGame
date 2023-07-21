@@ -62,7 +62,7 @@ public class GameController : MonoBehaviour
     
     public void Restart()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
   //      mPlayer.gameObject.SetActive(true);
   //      mPlayer.transform.position = Vector3.zero;
 
